@@ -1,3 +1,3 @@
-## jetsend.com
+## sendjet.com
 
-Static page for jetsend.com
+Static page for sendjet.com
