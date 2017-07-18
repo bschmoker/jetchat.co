@@ -1,1 +1,8 @@
 theme: jekyll-theme-minimal
+
+title: SendJet | Talk to your Customers
+description: Connect to your customers with SMS and Facebook
+
+google_analytics: UA-102767370-1
+
+show_downloads: false
