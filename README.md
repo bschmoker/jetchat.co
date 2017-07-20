@@ -1,3 +1,3 @@
-## sendjet.com
+## jetchat.co
 
-Static page for sendjet.com
+Static page for jetchat.co
